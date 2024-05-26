@@ -1,0 +1,15 @@
+{
+  "name": "zapatillas",
+  "version": "1.0.0",
+  "descripcion":"backend de zapatillas",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Fernando Calderon, Chris Bugman, Sebastian Delso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "modemon": "v20.13.1"
+  }
+}
